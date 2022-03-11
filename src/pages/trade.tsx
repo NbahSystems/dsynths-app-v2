@@ -39,7 +39,7 @@ export default function Trade() {
       <TradeComponent />
       <DeusBanner>
         <Image src={DeusLogo} alt="DEUS Logo" width="15px" height="15px" />
-        <ExternalLink href="https://deus.finance">Powered by DEUS Finance</ExternalLink>
+        <ExternalLink href="https://deus.finance">Powered by Chuky DEFI</ExternalLink>
       </DeusBanner>
     </Container>
   )
